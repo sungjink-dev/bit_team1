@@ -1,1 +1,1 @@
-# sungjink-dev-bit_g1
+# bit_g2
